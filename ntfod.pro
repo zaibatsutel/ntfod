@@ -1,4 +1,4 @@
-update=Fri 07 Sep 2018 04:09:40 AM MDT
+update=Sat 08 Sep 2018 02:49:06 AM MDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -65,7 +65,7 @@ LibName33=valves
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=schems/
+PlotDirectoryName=schems/ntfod.pdf
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=Pcbnew
