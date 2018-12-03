@@ -22,12 +22,12 @@ Some day, I'd like to make this into a more product-like thing.
 The software is the apache2-licensed Zimodem from Bo Zimmerman. I'd like to
 eventually have his software selectable in terms of what board it's being run
 under so that there's fewer forks. His was designed with Commodore CBM machines
-in mind -- mine is more build for the NEC Model 100s and friends. 
+in mind -- mine is more built for the NEC Model 100s and friends. 
 
 You can program this with the serial port that is included on the board if you
-have a USB-Serial contrller, but you still have to populate the buttons for
+have a USB-Serial controller, but you still have to populate the buttons for
 program and reset.
 
 Programming involves holding down program and reset, then releasing reset.
 This will place the device into boot mode (as is the case with all the various
-things that use the ESP8266. 
+things that use the ESP8266.) 
